@@ -1,0 +1,2 @@
+# TheLookingGlass
+A fantasy generator
